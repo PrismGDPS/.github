@@ -6,5 +6,5 @@
 You can download the GDPS in [here](https://prismized.ps.fhgdps.com).<br>Platforms that are supported are: **Android**, **Windows** and **iOS**.
 
 ## Repositories
-[website](https://github.com/PrismGDPS/website) - PrismGDPS website.
+[website](https://github.com/PrismGDPS/website) - PrismGDPS website.<br>
 [download](https://github.com/PrismGDPS/download) - Used for PrismGDPS downloads.
