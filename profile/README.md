@@ -1,4 +1,4 @@
-# ![Prism Logo](https://raw.githubusercontent.com/PrismGDPS/website/main/vault/prismCenteredHeader.png)
+# ![Prism Logo](https://prismized.ps.fhgdps.com/vault/prismCenteredHeader.png)
 
 **PrismGDPS** is a GDPS (Geometry Dash Private Server) hosted on **GDPSFH**. The GDPS originally started on July 1st, 2024.
 
